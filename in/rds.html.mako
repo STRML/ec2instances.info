@@ -79,6 +79,10 @@
           data-text-off="Compare Selected">
           Compare Selected
         </button>
+
+        <button class="btn btn-warning btn-clear">
+          Clear Filters
+        </button>
       </div>
     </div>
 
